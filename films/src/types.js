@@ -1,0 +1,5 @@
+export const SEARCH_CHANGE = 'SEARCH_CHANGE'
+export const MOVIES_FETCHED = 'MOVIES_FETCHED'
+export const MOVIES_FAILED = 'MOVIES_FAILED'
+export const START_STATE = 'START_STATE'
+export const STATE_FAILED = 'STATE_FAILED'

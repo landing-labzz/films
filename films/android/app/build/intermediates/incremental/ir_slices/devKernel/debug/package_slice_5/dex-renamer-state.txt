@@ -1,0 +1,4 @@
+#Fri Feb 08 12:15:48 MSK 2019
+base.0=/home/user/rn/films/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jan 18 11:44:07 MSK 2019
+0.baseType=DIRECTORY
+0.base=/home/user/rn/films/android/app/build/intermediates/merged_assets/devKernelDebug/mergeDevKernelDebugAssets/out
+0.path=kernel-manifest.json
+0.set=ASSET
+count=1
